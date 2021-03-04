@@ -1,0 +1,22 @@
+/*saya Muhammad Rayhan Fadillah 
+mengerjakan Tugas Praktikum ke-1 dalam 
+mata kuliah Desain dan Pemrograman Beroreintasi Objek
+untuk keberkahanNya maka
+saya tidak melakukan kecurangan seperti
+yang telah dispesifikasikan.Aamiin.*/
+
+Kesulitan : 
+ - Saya kurang yakin kode yang telah ditulis sudah sesuai Best Practice konsep OOP
+
+Hal Baru :
+ - berpindah antar form
+ - membuat dynamic label
+ - membuat filter berdasar value dari dropdown
+ - button dengan hyperlink ke suatu web
+
+Fitur  yang sudah dikerjakan :
+ - login
+ - logout
+ - cari barang berdasarkan jenis & range harga
+ - detail barang
+ 
