@@ -1,0 +1,11 @@
+C:\Users\fadiil\source\repos\TP1PBO2021\bin\Debug\TP1PBO2021.exe.config
+C:\Users\fadiil\source\repos\TP1PBO2021\bin\Debug\TP1PBO2021.exe
+C:\Users\fadiil\source\repos\TP1PBO2021\bin\Debug\TP1PBO2021.pdb
+C:\Users\fadiil\source\repos\TP1PBO2021\obj\Debug\TP1PBO2021.csprojAssemblyReference.cache
+C:\Users\fadiil\source\repos\TP1PBO2021\obj\Debug\TP1PBO2021.login.resources
+C:\Users\fadiil\source\repos\TP1PBO2021\obj\Debug\TP1PBO2021.Properties.Resources.resources
+C:\Users\fadiil\source\repos\TP1PBO2021\obj\Debug\TP1PBO2021.csproj.GenerateResource.cache
+C:\Users\fadiil\source\repos\TP1PBO2021\obj\Debug\TP1PBO2021.csproj.CoreCompileInputs.cache
+C:\Users\fadiil\source\repos\TP1PBO2021\obj\Debug\TP1PBO2021.exe
+C:\Users\fadiil\source\repos\TP1PBO2021\obj\Debug\TP1PBO2021.pdb
+C:\Users\fadiil\source\repos\TP1PBO2021\obj\Debug\TP1PBO2021.dashboard.resources
