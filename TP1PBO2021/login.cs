@@ -21,12 +21,15 @@ namespace TP1PBO2021
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            string user, pass;
-            user = tbUsername.Text;
-            pass = tbPassword.Text;
+            // instansiasi objek user
+            User user = new User();
+        
+            //get & set
+            user.username = tbUsername.Text;
+            user.password = tbPassword.Text;
 
             // mencocokan user dan pass yang sudah di setting
-            if(user == "mrayhanfadil" && pass == "pbo123")
+            if (user.username != "" && user.password == "pbo123")
             {
                 dashboard d = new dashboard();
                 d.Show(); // membuka dashboard /  home
